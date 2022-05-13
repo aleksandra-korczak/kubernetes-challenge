@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: kubernetes-challenge
+  namespace: default
+data:
+  name: "Aleksandra"
